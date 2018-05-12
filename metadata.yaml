@@ -1,0 +1,39 @@
+_repo: Abb--Aubain-and-Mosaics_35004
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Waller, E. M. (Emily Mary)
+    alias: Waller, Emily Mary
+    gutenberg_agent_id: '37385'
+    url: http://www.gutenberg.org/2009/agents/37385
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+description: ''
+gutenberg_issued: '2011-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: 'The Abbé Aubain -- Mosaics: Mateo Falcone; The vision of Charles
+  XI; How we stormed the fort; Tamango; The game of backgammon; The Etruscan vase
+  -- The Venus of Ille -- Lokis -- The blue chamber -- The "viccolo" of Madame Lucrezia
+  -- Djoumane.'
+title: Abbé Aubain and Mosaics
+url: http://www.gutenberg.org/ebooks/35004
